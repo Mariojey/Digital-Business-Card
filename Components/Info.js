@@ -1,9 +1,8 @@
 import React from "react"
-
 export default function Info(){
     return(
         <div className="header">
-            <img src="./public/MegaFria.png" alt=""/>
+            <div className="img"></div>
             <h1 className="mariojey-header-text">Mariusz Jacek</h1>
             <p className="full-stack-dev-header-text">Full-Stack Developer</p>
             <div className="header-icons">
