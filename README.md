@@ -14,7 +14,8 @@ Run Webpack in watch-mode to continually compile the JavaScript as you work:
 ```
 $ yarn watch # npm run watch
 ```
-
+## Link for a website
+https://scrimba.com/learn/learnreact/react-section-1-solo-project-coce646e88eea46f91af43ca4
 ## About Scrimba
 
 At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
